@@ -1,0 +1,13 @@
+.header {
+    height: 80px;
+    background-color: #eae0ae;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header h5 {
+    margin: 0;
+    font-size: 24px;
+    color: #1d64ee;
+}
